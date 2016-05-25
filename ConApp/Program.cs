@@ -12,6 +12,7 @@ namespace ConApp
         {
             Class1.method1();
             Class1.method2();
+            Class1.method3();
         }
     }
 }
