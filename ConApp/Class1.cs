@@ -18,6 +18,11 @@ namespace ConApp
             Console.WriteLine("method2 is exist");
             Console.ReadLine();
         }
+        static public void method3()
+        {
+            Console.WriteLine("method3 is exist");
+            Console.ReadLine();
+        }
     }
 
 }
