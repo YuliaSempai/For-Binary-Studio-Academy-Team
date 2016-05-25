@@ -10,6 +10,8 @@ namespace ConApp
     {
         static void Main(string[] args)
         {
+            Class1.method1();
+            Class1.method2();
         }
     }
 }
